@@ -1,0 +1,46 @@
+$files = {
+           '_<test.pl' => [
+                            {
+                              'expr' => undef,
+                              'value' => '1',
+                              'fname' => 'test.pl',
+                              'type' => 'user',
+                              'text' => '	    last;
+',
+                              'line' => '62'
+                            },
+                            {
+                              'line' => '37',
+                              'text' => '    while (1==1)
+',
+                              'fname' => 'test.pl',
+                              'value' => '1',
+                              'type' => 'user',
+                              'expr' => undef
+                            }
+                          ]
+         };
+$expr_list = [
+               {
+                 'depth' => -1,
+                 'expr' => '@list'
+               },
+               {
+                 'depth' => -1,
+                 'expr' => '$first'
+               },
+               {
+                 'depth' => -1,
+                 'expr' => '$second'
+               },
+               {
+                 'depth' => -1,
+                 'expr' => '$counts'
+               },
+               {
+                 'expr' => '$combined',
+                 'depth' => -1
+               }
+             ];
+$eval_saved_text = '';
+$main_win_geometry = '1600x1153+0+25';
