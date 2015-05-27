@@ -1,6 +1,6 @@
 package Compress::Huffman;
 
-use 5.018002;
+use 5.008;
 use strict;
 use warnings;
 
