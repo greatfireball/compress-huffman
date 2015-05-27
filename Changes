@@ -1,0 +1,6 @@
+Revision history for Perl extension Compress::Huffman.
+
+0.1  Wed May 27 16:24:43 2015
+	- original version; created by h2xs 1.23 with options
+		-AXc --use-new-tests --skip-exporter --version=0.1 -n Compress::Huffman
+

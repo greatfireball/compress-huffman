@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Compress-Huffman.t
+lib/Compress/Huffman.pm
