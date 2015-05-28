@@ -11,12 +11,14 @@ A module to compress and decompress strings using the Huffman algorithm
 | Branch | Build result |
 |--------|--------------|
 | Master | [[https://travis-ci.org/greatfireball/compress-huffman][https://travis-ci.org/greatfireball/compress-huffman.svg?branch=master]] |
+| Develop | [[https://travis-ci.org/greatfireball/compress-huffman][https://travis-ci.org/greatfireball/compress-huffman.svg?branch=develop]] |
 
 ** Coverage
 
 | Branch | Build result |
 |--------|--------------|
 | Master | [[https://coveralls.io/r/greatfireball/compress-huffman][https://coveralls.io/repos/greatfireball/compress-huffman/badge.svg?branch=master]] |
+| Develop | [[https://coveralls.io/r/greatfireball/compress-huffman][https://coveralls.io/repos/greatfireball/compress-huffman/badge.svg?branch=develop]] |
 
 ** Installation
 
